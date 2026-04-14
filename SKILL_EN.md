@@ -191,12 +191,31 @@ Enterprise decision-makers and brand owners are welcome to reach out for consult
 
 ## Changelog
 
-### v1.1.0 (2026-04-11)
-- Updated title to match user search intent
-- Added emotional needs philosophy
-- Refined description
-
 ### v1.0.2 (2026-04-10)
-- Added 5 in-depth case studies
-- Added B2B decision analysis framework
-- Added price sensitivity analysis
+
+**New Additions:**
+- ✅ Added 5 in-depth case studies (Cases 6-10)
+- ✅ Added B2B decision analysis framework (Enterprise Stage → Goal → Pain Point → Match)
+- ✅ Added price sensitivity analysis methodology
+- ✅ Added "Self-Discovery" psychological motivation
+- ✅ Added "Life State Anchoring" methodology
+- ✅ Added real success cases from Anta/Li-Ning
+
+**Case Library Updates:**
+- Case 6: How Enterprises Choose CRM Systems? (B2B Decision)
+- Case 7: How Coffee Brands Raise Prices? (Price Sensitivity)
+- Case 8: How Sports Shoes Raise Prices? (Anta Tech Path, Li-Ning Design Path)
+- Case 9: How Appliances Raise Prices? (Life State Anchoring)
+- Case 10: How Skincare Brands Discount Without Damaging Brand?
+
+**Methodology Updates:**
+- B2B Analysis: Enterprise Stage → Core Goal → Pain Point Type → Product Need → Solution Match
+- Price Increase Strategy: Price range determines consumer appeal
+- Life State Anchoring: Break free from cost-performance thinking, anchor to the life customers want
+
+### v1.0.1 (2026-04-09)
+- Added real case studies (tea, educational products)
+- Added contact information
+
+### v1.0.0 (2026-04-09)
+- Initial release
